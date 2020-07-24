@@ -1,0 +1,15 @@
+.avatar {
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+}
+
+.contact-grid {
+  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(
+    to right,
+    #cd63e7,
+    #c0c0aa
+  ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
