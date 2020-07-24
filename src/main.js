@@ -2,7 +2,7 @@ import React from "react";
 import { Switch, Route } from "react-router-dom";
 import Profile from "./components/profile";
 import ToDoList from "./components/To-do-list";
-import Support from "../src/Support";
+import Support from "./components/Support";
 
 const Main = () => (
   <div>
